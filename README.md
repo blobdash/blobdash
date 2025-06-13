@@ -2,8 +2,6 @@
 
 ## Who am I?
 
-I am blobdash, f.k.a. FruityEnLoops.
-
 [A quick access to all my socials / links](https://blobdash.carrd.co/)
 
 To contact me, you can probably find me on [Twitter](https://twitter.com/FruityEnLoops), or on Discord (`blobdash`). For more professional inquiries, you can email me at blobdash (at) protonmail.com.
@@ -12,19 +10,19 @@ To contact me, you can probably find me on [Twitter](https://twitter.com/FruityE
 
 Past experiences :
 - Java (mostly oriented at Spring, JDBC, database/backend oriented)
-- JavaScript/nodejs (Svelte/Angular/React for frontend, discord.js and Express)
+- JavaScript/nodejs (Svelte/Angular/React, Express, CLI based programming)
 - Bash and Python for server side utilities and scripting
 - PHP
 - basic knowledge of C
 
 I currently use Debian for desktop and server use.
 
-## Current projects
+## Recent projects
 
-- [Concierge](https://github.com/FruityEnLoops/Concierge) : A discord.js 14 bot using the slash commands API to automatically submit scores for the AlphaNef rhythm game challenges. Focus of this project is to keep a codebase as clean as possible and to expand on it in the future, with minimal dependencies and code.
-- [hazumu](https://github.com/FruityEnLoops/hazumu) : A Svelte webapp to visualize JSON dumps of Discord messages, with handy filters and parsing of useful informations, primarily targeted at music archive Discord servers to preserve offline backups of uploads.
-- [IdlescapePresence](https://github.com/FruityEnLoops/IdlescapePresence) : A rich presence implementation for Idlescape, made for PreMiD. Displays your current activity, your username, your league, and your level as well as icons based on your activity, directly in Discord.
-- [HoursAndCounting-js](https://github.com/FruityEnLoops/HoursAndCounting-js) : A discord bot to display schedules. It was a project I made for my DUT's Discord server, to let users with different groups to easily see their schedules and their friend's schedules without having to navigate the outdated and slow website made for our time tables. This is a rewrite of [HoursAndCounting](https://github.com/FruityEnLoops/HoursAndCounting), which was written in Java. I wanted to have a more flexible (and clean) code base, so I started from scratch.
+- [nodeinsider](https://github.com/blobdash/nodeinsider) : A small script using cheerio to parse khinsider album pages and retrieve soundtracks easily. Inspired by [khinsider.py](https://github.com/obskyr/khinsider).
+- [bmstabletools](https://github.com/blobdash/bmstabletools) (WIP) : Tools to play with BMS tables, such as finding missing BMS files, creating update packs, mass downloading missing content, resolving download URLs from BMS event websites and much more.
+- [ShinyOverlay](https://github.com/blobdash/ShinyOverlay) : A small scriptlet to count resets. Mainly oriented towards [Pokemon shiny hunting](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon), with a Discord Rich Presence integration.
+- [khsavant](https://github.com/blobdash/khsavant) : A Vue based website to display Kingdom Hearts achievements from the various collections, but separated by game. Steam listing has them all together in a massive unordered mess, so that makes it easier to read. And show off your 100%!
 
 ## Personal interests
 
